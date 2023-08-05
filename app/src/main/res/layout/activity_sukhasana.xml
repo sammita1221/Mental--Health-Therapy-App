@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Sukhasana">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView23"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="serif"
+            android:text="Sukhasana(Easy Pose)"
+            android:textColor="#474444"
+            android:textSize="34sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView28"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="serif"
+            android:text="The Sukhasana is a great pose for practicing mindful breathing.The easy pose relaxes and soothes the mind, reduces stress and anxiety levels, and promotes calm and serenity. This pose also improves spinal alignment, stretches the knees and ankles, and relieves hip tension."
+            android:textColor="#474444"
+            android:textSize="24sp" />
+
+        <TextView
+            android:id="@+id/textView32"
+            android:layout_width="match_parent"
+            android:layout_height="77dp"
+            android:text="Step By Step"
+            android:textColor="#474444"
+            android:textSize="48sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView33"
+            android:layout_width="match_parent"
+            android:layout_height="74dp"
+            android:fontFamily="serif"
+            android:text="1.Sit on the floor with your legs stretched out in front of you."
+            android:textColor="#474444"
+            android:textSize="24sp" />
+
+        <TextView
+            android:id="@+id/textView34"
+            android:layout_width="match_parent"
+            android:layout_height="116dp"
+            android:fontFamily="serif"
+            android:text=" 2. Cross your legs, place each foot under the opposite knee and lengthen the spine"
+            android:textColor="#474444"
+            android:textSize="24sp" />
+
+        <TextView
+            android:id="@+id/textView35"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="serif"
+            android:text="3.Stay in sukhasana as long you like"
+            android:textColor="#494444"
+            android:textSize="24sp" />
+
+    </LinearLayout>
+</ScrollView>

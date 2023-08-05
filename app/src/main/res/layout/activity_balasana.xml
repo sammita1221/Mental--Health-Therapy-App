@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Balasana">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView15"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="serif"
+            android:text="BALASANA(CHILD'S POSE)"
+            android:textColor="#2C1919"
+            android:textSize="34sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView16"
+            android:layout_width="match_parent"
+            android:layout_height="400dp"
+            android:fontFamily="serif"
+            android:text="Balasana (Child’s pose), is a restorative pose that is known for its calming, grounding, and relaxing effects. It gently stretches the lower back, hips, and thighs, while calming the mind and relieving stress. Practicing Child’s Pose can help improve your posture, reduce pain, and improve your overall health.Balasana can provide a sense of calm and comfort, just like when a child rests in its mother’s arms."
+            android:textColor="#1C1A1A"
+            android:textSize="24sp" />
+
+        <TextView
+            android:id="@+id/textView17"
+            android:layout_width="match_parent"
+            android:layout_height="75dp"
+            android:fontFamily="serif"
+            android:text="Step By Step"
+            android:textColor="#3C3737"
+            android:textSize="48sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView18"
+            android:layout_width="match_parent"
+            android:layout_height="115dp"
+            android:fontFamily="serif"
+            android:text="1.Sit on your heels, knees spread mat distance apart and bring your head towards the floor"
+            android:textColor="#454040"
+            android:textSize="24sp" />
+
+        <TextView
+            android:id="@+id/textView19"
+            android:layout_width="match_parent"
+            android:layout_height="144dp"
+            android:fontFamily="serif"
+            android:text="2.Your arms can be either stretched out to the front, by your side or hands underneath your forehead"
+            android:textColor="#474444"
+            android:textSize="24sp" />
+
+        <TextView
+            android:id="@+id/textView20"
+            android:layout_width="match_parent"
+            android:layout_height="46dp"
+            android:fontFamily="serif"
+            android:text="3.Breathe into your lower back"
+            android:textColor="#494444"
+            android:textSize="24sp" />
+
+        <TextView
+            android:id="@+id/textView21"
+            android:layout_width="match_parent"
+            android:layout_height="102dp"
+            android:fontFamily="serif"
+            android:text="4.Stay for anywhere between 30 seconds and several minutes in this resting pose"
+            android:textColor="#474444"
+            android:textSize="24sp" />
+
+        <TextView
+            android:id="@+id/textView22"
+            android:layout_width="match_parent"
+            android:layout_height="92dp"
+            android:fontFamily="serif"
+            android:text="5.To come out, exhale and roll up vertebra by vertebra, or come back to sitting with a straight spine."
+            android:textColor="#474444"
+            android:textSize="24sp" />
+    </LinearLayout>
+</ScrollView>

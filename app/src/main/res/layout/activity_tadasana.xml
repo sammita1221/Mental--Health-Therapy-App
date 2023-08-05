@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Tadasana">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView42"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="serif"
+            android:text="Tadasana(Mountain Pose)"
+            android:textColor="#474444"
+            android:textSize="34sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView43"
+            android:layout_width="match_parent"
+            android:layout_height="328dp"
+            android:fontFamily="serif"
+            android:text=" Mountain pose is the foundation for all of the standing postures and improves posture, groundedness, stability and body awareness. Physically, it helps to improve alignment and balance, which can be beneficial to other poses and daily movements.Emotionally, it helps to promote self-confidence, openness, and mental clarity."
+            android:textColor="#474444"
+            android:textSize="24sp" />
+
+        <TextView
+            android:id="@+id/textView44"
+            android:layout_width="match_parent"
+            android:layout_height="58dp"
+            android:fontFamily="serif"
+            android:text="Step By Step"
+            android:textColor="#474444"
+            android:textSize="34sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView45"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="serif"
+            android:text="1.Stand upright, keeping a distance of 2 inches between your feet"
+            android:textColor="#494444"
+            android:textSize="24sp" />
+
+        <TextView
+            android:id="@+id/textView46"
+            android:layout_width="match_parent"
+            android:layout_height="102dp"
+            android:fontFamily="serif"
+            android:text="2.Inhale and lift your arms in front, levelling up to your shoulders"
+            android:textColor="#474444"
+            android:textSize="24sp" />
+
+        <TextView
+            android:id="@+id/textView47"
+            android:layout_width="match_parent"
+            android:layout_height="109dp"
+            android:fontFamily="serif"
+            android:text="3.Lock the fingers of both hands together and then slowly rotate your wrist outwards"
+            android:textColor="#454444"
+            android:textSize="24sp" />
+
+        <TextView
+            android:id="@+id/textView48"
+            android:layout_width="match_parent"
+            android:layout_height="94dp"
+            android:fontFamily="serif"
+            android:text="4.Now inhale and lift your hands above the head"
+            android:textColor="#494444"
+            android:textSize="24sp" />
+
+        <TextView
+            android:id="@+id/textView49"
+            android:layout_width="match_parent"
+            android:layout_height="140dp"
+            android:fontFamily="serif"
+            android:text="5.While lifting your arms, also lift your heels off the ground, balancing your entire body weight on your toes"
+            android:textColor="#494444"
+            android:textSize="24sp" />
+
+        <TextView
+            android:id="@+id/textView50"
+            android:layout_width="match_parent"
+            android:layout_height="108dp"
+            android:fontFamily="serif"
+            android:text="6.Be in this position for 20 - 30 seconds or as long as you are comfortable"
+            android:textColor="#494444"
+            android:textSize="24sp" />
+
+        <TextView
+            android:id="@+id/textView51"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="serif"
+            android:text="7.Now slowly bring your heels down Exhale and release your fingers Now draw your arms down and return to the initial position"
+            android:textColor="#474444"
+            android:textSize="24sp" />
+    </LinearLayout>
+</ScrollView>

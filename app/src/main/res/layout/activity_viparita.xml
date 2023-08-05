@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Viparita">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView24"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="serif"
+            android:text="Viparita Karani(Inverted Lake Pose)"
+            android:textColor="#232020"
+            android:textSize="34sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView26"
+            android:layout_width="match_parent"
+            android:layout_height="241dp"
+            android:fontFamily="serif"
+            android:text="The Viparita Karani benefits are therapeutic. It heals mild anxiety, arthritis, digestive issues, headaches, hypertension, sleep deprivation, migraines, breathing problems, symptoms of depression, and symptoms of menopause."
+            android:textColor="#494444"
+            android:textSize="24sp" />
+
+        <TextView
+            android:id="@+id/textView27"
+            android:layout_width="match_parent"
+            android:layout_height="76dp"
+            android:fontFamily="serif"
+            android:text="Step By Step"
+            android:textColor="#474444"
+            android:textSize="48sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView29"
+            android:layout_width="match_parent"
+            android:layout_height="145dp"
+            android:fontFamily="serif"
+            android:text="1.Lie down on a flat surface. Position yourself in a way that your tailbone is pointed at the base of the wall."
+            android:textColor="#494444"
+            android:textSize="24sp" />
+
+        <TextView
+            android:id="@+id/textView30"
+            android:layout_width="match_parent"
+            android:layout_height="145dp"
+            android:fontFamily="serif"
+            android:text="2.Shimmy your hips as close as possible to the wall, then start walking your feet up the wall until your body forms an L shape."
+            android:textColor="#474444"
+            android:textSize="24sp" />
+
+        <TextView
+            android:id="@+id/textView31"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="serif"
+            android:text="3.Make adjustments so that the posture feels relaxing, use a pillow under your head or a towel at the base of your back."
+            android:textColor="#494444"
+            android:textSize="24sp" />
+
+    </LinearLayout>
+</ScrollView>

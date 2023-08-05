@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Bitilasana">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView25"
+            android:layout_width="match_parent"
+            android:layout_height="57dp"
+            android:fontFamily="serif"
+            android:text="Bitilasana(Cow's Pose)"
+            android:textColor="#494747"
+            android:textSize="34sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView36"
+            android:layout_width="match_parent"
+            android:layout_height="367dp"
+            android:fontFamily="serif"
+            android:text="Bitilasana is a beginner's yoga pose. It is a gentle pose that can be performed by most anyone at any level of skill. From Sanskrit, bitila means cow and asana means pose.This asana also stimulates the anahata (heart) chakra, promoting love and trust for self and others. It is also the chakra responsible for energy flow and blood circulation."
+            android:textColor="#474444"
+            android:textSize="24sp" />
+
+        <TextView
+            android:id="@+id/textView37"
+            android:layout_width="match_parent"
+            android:layout_height="68dp"
+            android:fontFamily="serif"
+            android:text="Step By Step"
+            android:textColor="#494545"
+            android:textSize="34sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView38"
+            android:layout_width="match_parent"
+            android:layout_height="197dp"
+            android:fontFamily="serif"
+            android:text="1.To come into Cow pose, start from all fours in a tabletop position. Your knees under your hips and wrists under your shoulders or slightly forwards of them."
+            android:textColor="#474444"
+            android:textSize="24sp" />
+
+        <TextView
+            android:id="@+id/textView39"
+            android:layout_width="match_parent"
+            android:layout_height="104dp"
+            android:fontFamily="serif"
+            android:text="2.Spread your fingers, root down through the base of the fingers and press your fingers on the mat."
+            android:textColor="#474444"
+            android:textSize="24sp" />
+
+        <TextView
+            android:id="@+id/textView40"
+            android:layout_width="match_parent"
+            android:layout_height="112dp"
+            android:fontFamily="serif"
+            android:text="3.On an inhalation, lower the belly, lift your chest, tailbone pointing up and look up."
+            android:textColor="#474444"
+            android:textSize="24sp" />
+
+        <TextView
+            android:id="@+id/textView41"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="serif"
+            android:text="4.Exhale, come back into your neutral ‘tabletop’ position. "
+            android:textColor="#494444"
+            android:textSize="24sp" />
+    </LinearLayout>
+</ScrollView>
